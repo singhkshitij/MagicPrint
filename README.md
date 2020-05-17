@@ -67,7 +67,7 @@ See Gifs below to understand flow of App !
 
 ### There is one more Admin App for the same to upload and add products with ease and hassle free, so that you dont have to manually insert them in database. If required head over to my blog and subscribe, we'll mail you the source code immediately.
 
-<a href="https://mytrashcode.com/subscribe/"><img src="https://frplockbypass.info/wp-content/uploads/2018/04/Free-frp-bypass-apk-300x150.png"></a>
+<a href="https://mytrashcode.com/subscribe/"><img src="https://www.bitcomet.com/images/download_en.png"></a>
 
 ## Download and Test Magic Print Dashboard Apk
 
