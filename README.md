@@ -48,7 +48,7 @@ See Gifs below to understand flow of App !
 - About Us Page
 - Push Notifiation to customers
 - App tour 
-- And much much more , download apk and try to discover !
+- And many more , download apk and try to discover !
 
 ## Functionalities Enabled
 
